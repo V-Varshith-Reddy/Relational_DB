@@ -78,9 +78,9 @@ provides the following functionalities using the above developed “library”:
 • Print a table in appropriate format.
 • Create a table from existing tables using the above developed operations.
 ## Submission:
-Divided the code into the following:
-• A header file (rdb.h) which has all the Library API.
-• A c++ file (rdb-basics.cpp) with implementations of all the basic operators.
-• A c++ file (rdb-join.cpp) with implementation of the join operation.
-• A c++ file (rdb-attr.cpp) with implementations of all supported attribute types.
-• A c++ file (rdb-main.cpp) with implementation of the UI.
+>Divided the code into the following:
+>• A header file (rdb.h) which has all the Library API.
+>• A c++ file (rdb-basics.cpp) with implementations of all the basic operators.
+>• A c++ file (rdb-join.cpp) with implementation of the join operation.
+>• A c++ file (rdb-attr.cpp) with implementations of all supported attribute types.
+>• A c++ file (rdb-main.cpp) with implementation of the UI.
